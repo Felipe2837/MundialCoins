@@ -1,0 +1,2 @@
+# MundialCoins
+Moeda mundial
